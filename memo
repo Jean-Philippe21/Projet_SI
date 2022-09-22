@@ -1,0 +1,5 @@
+-----Fonction "modificationClient"
+	disponible en post
+	faut lui donné un json de la forme :
+	 -- {Flag : int, email_client : ..} ou bien
+	 -- 
